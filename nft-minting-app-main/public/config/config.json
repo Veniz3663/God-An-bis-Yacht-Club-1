@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x6acBb3e2730BC74c7e1626075D2a951179E2DbF9",
+  "SCAN_LINK": "https://polygonscan.com/address/0x6acbb3e2730bc74c7e1626075d2a951179e2dbf9",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "God Anúbis Yacht Club",
+  "SYMBOL": "YCDA",
+  "MAX_SUPPLY": 3333,
+  "WEI_COST": 22000000000000000000,
+  "DISPLAY_COST": 22,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/godanubisyachtclub",
+  "SHOW_BACKGROUND": true
+}
